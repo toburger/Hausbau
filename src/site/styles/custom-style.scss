@@ -1,13 +1,67 @@
+// body {
+//     /***
+//       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
+//       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+//    ***/
+//     //  background-color: white;
+//     //  .content {
+//     //   font-size: 14px;
+//     //  }
+//     //  h1 {
+//     //   color: black;
+//     //  }
+// }
+
+:root {
+  --default-font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif;
+  --mermaid-font: var(--default-font);
+  --reveal-font: var(--default-font);
+  --font-monospace: "Source Code Pro", monospace;
+}
+
+img {
+  width: 100%;
+}
+
 body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  background-color: #202020;
+  font-family: var(--default-font);
+}
+
+.content {
+  color: rgb(220, 221, 222);
+  font-size: 16px;
+  line-height: 1.5;;
+}
+
+h1 {
+  color: rgb(220, 221, 222);
+  font-size: 2em;
+}
+
+h2 {
+  color: rgb(220, 221, 222);
+  font-size: 1.6em;
+}
+
+h3 {
+  color: rgb(220, 221, 222);
+  font-size: 1.37em;
+}
+
+h4 {
+  color: rgb(220, 221, 222);
+  font-size: 1.25em;
+}
+
+h5 {
+  color: rgb(220, 221, 222);
+  font-size: 1.12em;
+}
+
+a {
+  color: #7f6df2;
+  border-bottom: none;
 }
