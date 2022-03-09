@@ -10,4 +10,5 @@
 
 ---
 
-Liste der Förderungen in Deutschland, Österreich und Schweiz: https://www.loxone.com/dede/blog/smart-home-foerderungen/
+Liste der Förderungen in Deutschland, Österreich und Schweiz:
+https://www.loxone.com/dede/blog/smart-home-foerderungen/
