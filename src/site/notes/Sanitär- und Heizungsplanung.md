@@ -11,3 +11,15 @@ Wobei mich der ökonomische Aspekt auch interessieren würde und ob eine konvent
 
 > Ein Einwand war, dass elektrische Heizkörper eine hohe Strahlungsbelastung (Elektrosmog) haben. Allerdings würde ich gerne eine professionelle Meinung dazu hören, da ich derlei Kritik ohne Quellenangaben und Beweisen nicht als Entscheidungskriterium gelten lassen will.
 > Ich habe dazu nur bei Infrarotheizungen eine Verbindung mit Elektrosmog finden können, allerdings gibt es hier Normwerte, welche solange sie eingehalten werden, kein gesundheitliches Risiko darstellen.
+
+### Überlegungen
+
+##### Pro:
+- Keine Abhängigkeit von einem bestimmten Heizmittel
+- Wärme dann wenn man sie braucht und wo man sie braucht
+- Bester Wirkungsgrad aller Wärmsysteme
+- Wärme kann selbst produziert werden (durch [[Beiträge für Wärmepumpen mit Photovoltaikanlagen|Photovoltaik]])
+
+##### Kontra:
+- Hohe Energiepreise
+- Elektrosmog?
