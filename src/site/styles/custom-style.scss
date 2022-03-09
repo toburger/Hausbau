@@ -31,7 +31,7 @@ body {
 }
 
 .content {
-    max-width: 700px;
+  max-width: 700px;
   color: rgb(220, 221, 222);
   font-size: 16px;
   line-height: 1.5;;
@@ -65,4 +65,11 @@ h5 {
 a {
   color: #7f6df2;
   border-bottom: none;
+}
+
+@media screen and (min-width: 600px) {
+  .content {
+    max-width: 100%;
+    font-size: 24px;
+  }
 }
