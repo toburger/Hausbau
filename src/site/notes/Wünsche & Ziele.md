@@ -1,5 +1,5 @@
 ---
-{"aliases":["Hausbau"],"tags":["Hausbau","Haus","Bau","Planung","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dg-home":true,"dg-publish":true}
+{"aliases":["Hausbau"],"tags":["Hausbau","Haus","Bau","Planung","gardenEntry"],"dg-home":true,"dg-publish":true}
 ---
 
 # Hausbau - Wünsche & Ziele
@@ -57,7 +57,7 @@ siehe [[Weitere Ideen]]
 
 ### Appendum
 - [[Elektroplanung]]
-- [[_Hausbau/Finanzierungen/General|Finanzierungen]]
+- [[Finanzierungen|Finanzierungen]]
 - [[Lichtplanung]]
 - [[Sanitär- und Heizungsplanung]]
 - [[Weitere Ideen]]
