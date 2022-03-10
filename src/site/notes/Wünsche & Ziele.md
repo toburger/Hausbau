@@ -1,5 +1,5 @@
 ---
-{"aliases":["Hausbau"],"tags":["Hausbau","Haus","Bau","Planung","gardenEntry"],"dg-home":true,"dg-publish":true}
+{"aliases":["Hausbau"],"tags":["Hausbau","Haus","Bau","Planung","gardenEntry","gardenEntry","gardenEntry"],"dg-home":true,"dg-publish":true}
 ---
 
 # Hausbau - Wünsche & Ziele
@@ -53,15 +53,15 @@ Folgende weiteren **Pläne** sollen ausgearbeitet werden:
 1. [[Sanitär- und Heizungsplanung]][^heizung]
 
 ### Weitere Ideen
-siehe [[Sonstiges]]
+siehe [[Weitere Ideen]]
 
 ### Appendum
 - [[Elektroplanung]]
 - [[Finanzierungen|Finanzierungen]]
 - [[Lichtplanung]]
 - [[Sanitär- und Heizungsplanung]]
-- [[Sonstiges]]
+- [[Weitere Ideen]]
 
-[^sichtbeton]: [[Sonstiges#Sichtbeton]]
-[^smart-home]: [[Sonstiges#Smart-Home Technologie]]
-[^heizung]: [[Sonstiges#Heizungssystem]]
+[^sichtbeton]: [[Weitere Ideen#Sichtbeton]]
+[^smart-home]: [[Weitere Ideen#Smart-Home Technologie]]
+[^heizung]: [[Weitere Ideen#Heizungssystem]]
