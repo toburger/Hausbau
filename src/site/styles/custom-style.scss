@@ -19,6 +19,7 @@
   --mermaid-font: var(--default-font);
   --reveal-font: var(--default-font);
   --font-monospace: "Source Code Pro", monospace;
+  --text-normal: #dcddde;
 }
 
 img {
@@ -28,37 +29,40 @@ img {
 body {
   background-color: #202020;
   font-family: var(--default-font);
+  text-rendering: optimizeLegibility;
+  overflow-wrap: break-word;
 }
 
 .content {
   max-width: 700px;
-  color: rgb(220, 221, 222);
+  color: var(--text-normal);
   font-size: 16px;
   line-height: 1.5;;
+  padding: 10px;
 }
 
 h1 {
-  color: rgb(220, 221, 222);
+  color: var(--text-normal);
   font-size: 2em;
 }
 
 h2 {
-  color: rgb(220, 221, 222);
+  color: var(--text-normal);
   font-size: 1.6em;
 }
 
 h3 {
-  color: rgb(220, 221, 222);
+  color: var(--text-normal);
   font-size: 1.37em;
 }
 
 h4 {
-  color: rgb(220, 221, 222);
+  color: var(--text-normal);
   font-size: 1.25em;
 }
 
 h5 {
-  color: rgb(220, 221, 222);
+  color: var(--text-normal);
   font-size: 1.12em;
 }
 
@@ -67,10 +71,20 @@ a {
   border-bottom: none;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (max-width: 800px) {
+  .content {
+    font-size: 20px;
+  }
+}
+
+mark {
+  background-color: rgba(255, 255, 0, 0.4);
+  color: var(--text-normal);
+}
+
+@media screen and (max-width: 600px) {
   .content {
     max-width: 100%;
-    font-size: 36px;
-    margin: 0 10px;
+    font-size: 24px;
   }
 }
