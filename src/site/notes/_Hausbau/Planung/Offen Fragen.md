@@ -10,16 +10,16 @@
 - [[_Hausbau/Planung/Offen Fragen|#Greti Innerhofer]]
 
 ### Marx/Ladurner
-Webseite: https://www.marx-ladurner.com/
+[Webseite](https://www.marx-ladurner.com/)
 
 ### Heinold Gasser
-Webseite: http://www.heinoldgasser.com/
+[Webseite](http://www.heinoldgasser.com/)
 
 ### Greti Innerhofer
-Webseite: http://www.architekt-innerhofer.it/
+[Webseite](http://www.architekt-innerhofer.it/)
 
 ### Christoph Vinatzer
-Webseite: https://www.arch-vinatzer.com/
+[Webseite](https://www.arch-vinatzer.com/)
 
 ## Kubaturverschiebung möglich?
 #todo
