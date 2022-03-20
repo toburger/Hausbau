@@ -6,11 +6,13 @@
 
 ## Heizungssystem
 
-Ich habe kürzlich einen Artikel zu elektrischen Heizkörpersystemen gelesen und aus meiner ursprünglichen Skepsis wurde bald großes Interesse, da das Heizstystem mit Elektrik den höchsten Leistungsgrad und Energieeffizienz aller Heizungssysteme besitzt (natürlich muss man auch die Art und Weise wie elektrischer Strom produziert wird einberechnen, was die Effizienz nach unten drückt) und eine interessante ökologische Alternative zu anderen Heizsystemen bietet.
+Ich habe kürzlich einen Artikel zu elektrischen Heizungssysteme gelesen und aus meiner ursprünglichen Skepsis wurde bald großes Interesse, da das Heizsystem mit Elektrik den höchsten Leistungsgrad und Energieeffizienz aller Heizungssysteme besitzt (natürlich muss man auch die Art und Weise wie elektrischer Strom produziert wird einberechnen, was die Effizienz nach unten drückt) und eine interessante ökologische Alternative zu anderen Heizsystemen bietet.
 Wobei mich der ökonomische Aspekt auch interessieren würde und ob eine konventionelle Heizungssysteme hier doch die Nase vorne haben.
 
 > Ein Einwand war, dass elektrische Heizkörper eine hohe Strahlungsbelastung (Elektrosmog) haben. Allerdings würde ich gerne eine professionelle Meinung dazu hören, da ich derlei Kritik ohne Quellenangaben und Beweisen nicht als Entscheidungskriterium gelten lassen will.
 > Ich habe dazu nur bei Infrarotheizungen eine Verbindung mit Elektrosmog finden können, allerdings gibt es hier Normwerte, welche solange sie eingehalten werden, kein gesundheitliches Risiko darstellen.
+
+Weiterführende Infos: [[_Hausbau/Planung/Elektrische Fußbodenheizung|Elektrische Fußbodenheizung]]
 
 ### Überlegungen
 
