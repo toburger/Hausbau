@@ -1,5 +1,5 @@
 ---
-{"aliases":["Hausbau"],"tags":["Hausbau","Haus","Bau","Planung","gardenEntry","gardenEntry"],"dg-home":true,"dg-publish":true,"permalink":"/hausbau/wuensche-and-ziele/"}
+{"aliases":["Hausbau"],"tags":["Hausbau","Haus","Bau","Planung","gardenEntry"],"dg-home":true,"dg-publish":true,"permalink":"/hausbau/wuensche-and-ziele/"}
 ---
 
 # Hausbau - Wünsche & Ziele
@@ -12,13 +12,21 @@ Zuerst stand die Idee im Raum, ob das Haus im Fertigbau gebaut werden soll. Durc
 
 Generell würde mir eine Grau/Anthrazit-Optik sehr gut gefallen.
 
-**Einstöckig**, sofern es der gegebene Platz zulässt.
-Eine **U-Form** mit zentraler Terrasse oder zentraler Rasenfläche wäre schön, wobei ich mir eine überdachte Variante genau so wie eine offene Variante vorstellen kann.
+~~**Einstöckig**, sofern es der gegebene Platz zulässt.~~
+~~Eine **U-Form** mit zentraler Terrasse oder zentraler Rasenfläche wäre schön, wobei ich mir eine überdachte Variante genau so wie eine offene Variante vorstellen kann.~~
+
+___Um die Finanzierung zu ermöglichen sollen ein oder zwei Mietwohnungen dazu gebaut werden. Je nachdem wie viel Platz sich mit der zur Verfügung stehenden Kubatur ausgeht. Angestrebt sind zwei Wohnungen mit jeweils 65 m².___
 
 **Große Zimmer** und Verglasung Richtung Talsohle. Der **Innenraum** kann ruhig die ==Beton-Optik== der Außenfassade übernehmen. Auch einzelne Ziegelstein- oder Porphyr-Wände (siehe weiter unten) könnte ich mir gut vorstellen.
 Ich möchte gerne auf ==eckige, rechtwinkelige Innenräume== setzen und auf Rundungen verzichten. Im Badezimmer könnte ich mich noch am ehesten mit (wenigen) Rundungen anfreunden, aber auch hier bevorzuge ich kantige Innenräume.
 Die Zimmer könnten einen ==industriellen Look== haben, sollen aber dennoch wohnlich sein.
-Die Zimmer selbst sollen **nicht verwinkelt** sein, sondern die Wände sollen im Rechten Winkel zueinander stehen und den Einbau von Standardmöbeln erlauben.
+Die Zimmer selbst sollen nicht zu verwinkelt sein, sondern die Wände sollen im rechten Winkel zueinander stehen und den Einbau von Standardmöbeln erlauben.
+
+Ein gewisser **Industrie Chic** (Industriedesign) würde mir auch gut gefallen. Ich kann mir das auch sehr wohnlich und heimelig vorstellen, wenn die richtigen Materialien kombiniert werden oder man z.B. einen offenen Kamin ins Wohnzimmer stellt.
+
+Eine radikale Variante wäre den Funktionalismus kompromisslos in den Vordergrund zu stellen, frei nach dem Bauhaus-Prinzip. Was ich mir darunter vorstelle ist, dass man z.B. die Unterputzdosen einfach offen lässt und für die Beleuchtung sichtbare Schienen vorsieht mit welchen sich die Leuchten jederzeit verschieben lassen.
+
+**Stichworte:** _[Industrie Chic](https://en.wikipedia.org/wiki/Industrial_style), Industriedesign, [Bauhaus](https://de.wikipedia.org/wiki/Bauhaus), [Funktionalismus][funktionalismus], [James Bond Architektur](https://www.bz-berlin.de/berlin/der-architekt-den-james-bond-liebte)._
 
 ![Beton im Badezimmer](https://badezimmer.com/image/41.540/max860x645)
 
@@ -68,3 +76,5 @@ siehe [[_Hausbau/Planung/Ideen|Weitere Ideen]]
 [^sichtbeton]: [[_Hausbau/Planung/Ideen|_Hausbau/Planung/Ideen#Sichtbeton]]
 [^smart-home]: [[_Hausbau/Planung/Ideen|_Hausbau/Planung/Ideen#Smart-Home Technologie]]
 [^heizung]: [[_Hausbau/Planung/Ideen|_Hausbau/Planung/Ideen#Heizungssystem]]
+
+[funktionalismus]: https://de.wikipedia.org/wiki/Funktionalismus_(Design)
