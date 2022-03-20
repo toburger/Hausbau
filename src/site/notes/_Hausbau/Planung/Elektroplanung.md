@@ -7,7 +7,7 @@
 [[_Hausbau/Planung/Photovoltaik|Photovoltaik]]
 
 ## Stromspeicher
-[[_Hausbau/Planung/Stromspeicher|Stromspeicher]]
+[[_Hausbau/Planung/Energiespeicher|Energiespeicher]]
 ## Elektrische Fußbodenheizung
 [[_Hausbau/Planung/Elektrische Fußbodenheizung|Elektrische Fußbodenheizung]]
 
