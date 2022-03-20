@@ -1,5 +1,5 @@
 ---
-{"tags":["bausparen","finanzierung","bauen","wohnung"],"dg-publish":true,"permalink":"/hausbau/finanzierungen/bauspardarlehen/"}
+{"dg-publish":true,"permalink":"/hausbau/finanzierungen/bauspardarlehen/"}
 ---
 
 # Bauspardarlehen
