@@ -8,6 +8,7 @@
 - [[_Hausbau/Planung/Offen Fragen|#Stephan Marx]]
 - [[_Hausbau/Planung/Offen Fragen|#Heinold Gasser]]
 - [[_Hausbau/Planung/Offen Fragen|#Greti Innerhofer]]
+- [[_Hausbau/Planung/Offen Fragen|#Christoph Vinatzer]]
 
 ### Marx/Ladurner
 [Webseite](https://www.marx-ladurner.com/)
