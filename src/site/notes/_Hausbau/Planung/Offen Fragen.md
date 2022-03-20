@@ -18,6 +18,9 @@ Webseite: http://www.heinoldgasser.com/
 ### Greti Innerhofer
 Webseite: http://www.architekt-innerhofer.it/
 
+### Christoph Vinatzer
+Webseite: https://www.arch-vinatzer.com/
+
 ## Kubaturverschiebung möglich?
 #todo
 Wohl nicht möglich.
