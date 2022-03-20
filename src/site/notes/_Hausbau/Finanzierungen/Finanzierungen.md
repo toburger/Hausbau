@@ -1,5 +1,5 @@
 ---
-{"aliases":["Finanzierungen"],"dg-publish":true,"permalink":"/hausbau/finanzierungen/finanzierungen/"}
+{"dg-publish":true,"permalink":"/hausbau/finanzierungen/finanzierungen/"}
 ---
 
 # Möglichkeiten
