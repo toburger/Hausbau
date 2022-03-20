@@ -1,5 +1,5 @@
 ---
-{"aliases":["Loxone"],"tags":["smart-home","home-automation","loxone","bus"],"dg-publish":true,"permalink":"/hausbau/loxone/loxone/"}
+{"dg-publish":true,"permalink":"/hausbau/loxone/loxone/"}
 ---
 
 # Loxone
