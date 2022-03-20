@@ -3,5 +3,11 @@
 ---
 
 # Elektroplanung
+## Photovoltaik
+[[_Hausbau/Planung/Photovoltaik|Photovoltaik]]
 
-#todo
+## Stromspeicher
+[[_Hausbau/Planung/Stromspeicher|Stromspeicher]]
+## Elektrische Fußbodenheizung
+[[_Hausbau/Planung/Elektrische Fußbodenheizung|Elektrische Fußbodenheizung]]
+
