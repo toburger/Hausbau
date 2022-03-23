@@ -19,7 +19,10 @@
   --mermaid-font: var(--default-font);
   --reveal-font: var(--default-font);
   --font-monospace: "Source Code Pro", monospace;
-  --text-normal: #dcddde;
+  // --background-color: #202020;
+  --background-color: white;
+  // --text-normal: #dcddde;
+  --text-normal: #2e3338;
 }
 
 img {
@@ -27,7 +30,7 @@ img {
 }
 
 body {
-  background-color: #202020;
+  background-color: var(--background-color);
   font-family: var(--default-font);
   text-rendering: optimizeLegibility;
   overflow-wrap: break-word;
