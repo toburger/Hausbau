@@ -129,7 +129,7 @@ module.exports = function(eleventyConfig) {
     });
 
     eleventyConfig.addPassthroughCopy("src/site/img");
-    eleventyConfig.addPlugin(faviconPlugin, { destination: 'dist' });
+    // eleventyConfig.addPlugin(faviconPlugin, { destination: 'dist' });
 
     return {
         dir: {
