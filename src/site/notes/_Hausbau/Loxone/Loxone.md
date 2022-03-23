@@ -5,7 +5,7 @@
 # Loxone
 
 Referenzen:
-[[_Hausbau/Loxone/Loxone Tree|Loxone Tree]], [[Loxone Air]], [[_Hausbau/Loxone/Loxone Miniserver|Loxone Miniserver]] 
+[[_Hausbau/Loxone/Loxone Tree|Loxone Tree]], [[_Hausbau/Loxone/Loxone Air|Loxone Air]], [[_Hausbau/Loxone/Loxone Miniserver|Loxone Miniserver]] 
 
 Das Loxone Smart Home richtet sich an Hauseigentümer und Bauherren, die Wert auf Sicherheit, Energieeffizienz, Komfort sowie Zuverlässigkeit und hochwertige Qualität legen. Loxone setzt auf schönes Design und durchdachte smarte Funktionen, die so gut wie alle Wohn- und Arbeitsbereiche abdecken. Dabei können Nutzer zwischen einer kabelbasierten oder funkbasierten Lösung wählen, bzw. beide Varianten parallel einsetzen, was das System auch für Nachrüstungen interessant macht.
 
