@@ -3,6 +3,7 @@
 ---
 
 # Sanitär- und Heizungsplanung
+Ich möchte die Heizung ohne Abhängigkeit vom Sanitärtechniker, d.h. unabhängig von einem Warmwasserkreislauf, machen.
 
 ## Elektrische Fußbodenheizung
 Ich habe kürzlich einen Artikel zu elektrischen Heizungssysteme gelesen und aus meiner ursprünglichen Skepsis wurde bald großes Interesse, da das Heizsystem mit Elektrik den höchsten Leistungsgrad und Energieeffizienz aller Heizungssysteme besitzt (natürlich muss man auch die Art und Weise wie elektrischer Strom produziert wird einberechnen, was die Effizienz nach unten drückt) und eine interessante ökologische Alternative zu anderen Heizsystemen bietet.
