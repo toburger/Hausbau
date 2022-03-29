@@ -5,10 +5,10 @@
 # Offene Fragen
 
 ## Architekt?
-- [[_Hausbau/Planung/Offene Fragen|#Stephan Marx]]
-- [[_Hausbau/Planung/Offene Fragen|#Heinold Gasser]]
-- [[_Hausbau/Planung/Offene Fragen|#Greti Innerhofer]]
-- [[_Hausbau/Planung/Offene Fragen|#Christoph Vinatzer]]
+- [[_Hausbau/Planung/Offene Fragen#Stephan Marx|#Stephan Marx]]
+- [[_Hausbau/Planung/Offene Fragen#Heinold Gasser|#Heinold Gasser]]
+- [[_Hausbau/Planung/Offene Fragen#Greti Innerhofer|#Greti Innerhofer]]
+- [[_Hausbau/Planung/Offene Fragen#Christoph Vinatzer|#Christoph Vinatzer]]
 
 ### Marx/Ladurner
 [Webseite](https://www.marx-ladurner.com/)
