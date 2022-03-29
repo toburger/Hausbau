@@ -9,4 +9,4 @@ Ich habe keine Absicht eigene Obstbäume im Garten zu Pflanzen, jedoch ein bis z
 ### Offene Fragen
 - Welche Förderungen gibt es?
 	- [[_Hausbau/Finanzierungen/Bonus verde|Bonus verde]]
-- Bewässerung mit [[_Hausbau/Planung/Garten|Smart-Home Technologie]]
+- Bewässerung mit [[_Hausbau/Planung/Garten#Smart-Home Technologie smart-home-finanzierung|Smart-Home Technologie]]
