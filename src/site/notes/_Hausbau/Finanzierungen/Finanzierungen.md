@@ -19,3 +19,4 @@
 
 ## EU Förderungen
 #todo
+- [[_Hausbau/Finanzierungen/European Green Deal|European Green Deal]]
