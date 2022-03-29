@@ -7,6 +7,9 @@ Die Elektroinstallation sollte so geplant werden, dass sie über das [[_Hausbau/
 So soll das [[_Hausbau/Finanzierungen/Smart Home|Smart Home]] selbstständig entscheiden können wann der Strom in den Stromspeicher gespeichert wird und wann ein Elektrogerät den PV Strom direkt nutzen kann. Auch eine Lastenschaltung soll hierüber möglich sein, so dass es zu keinen Leistungsspitzen kommt.
 
 ## Photovoltaik
+Full Black wäre stylisch.
+
+
 [[_Hausbau/Planung/Photovoltaik|Photovoltaik]]
 
 ## Stromspeicher
