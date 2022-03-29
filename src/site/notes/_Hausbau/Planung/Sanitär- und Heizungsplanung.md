@@ -44,11 +44,11 @@ Zumindest der Montageplatz plus Anschlüsse für eine Klimaanlage sollten vorges
 [Energieeffiziente Warmwasserbereitung](https://www.effizienzhaus-online.de/energieeffiziente-warmwasserbereitung/)
 
 Da die Wärmeenergie durch den Einsatz der elektrischen Heizmittel nicht mehr auf Vorrat gespeichert wird, wird der Warmwasserkreislauf unabhängig des Heizungssystems betrieben.
-Hier bieten sich entweder ein **(Voll-)Elektronischer Durchlauferhitzer**, ein **Wärmepumpenboiler** , oder ein **Elektroboiler** an.
+Hier bieten sich entweder ein **(Voll-)Elektronischer Durchlauferhitzer**, ein **Wärmepumpenboiler**, oder ein **Elektroboiler** an.
 
 > Im Gegensatz zu Boilern erwärmen Durchlauferhitzer Trinkwasser immer nur dann, wenn es auch benötigt wird.
 
-Mein Favorit sind mehrere **Durchlauferhitzer**, da diese die Energie nur verbraucht, wenn sie auch benötigt wird, einen hohen Wirkungsgrad aufweist, hygienischer ist, kosteneffizient und platzsparend, sowie nicht so träge wie ein Boiler-System! Ergänzt durch die PV+Batterie sollte dies auch eine nachhaltige Lösung sein.
+Mein Favorit sind mehrere **Durchlauferhitzer** im jeweiligen Raum, da diese die Energie nur verbrauchen, wenn sie auch benötigt wird, einen hohen Wirkungsgrad aufweist, hygienischer ist, kosteneffizient und platzsparend, sowie nicht so träge wie ein Boiler-System! Ergänzt durch die PV+Batterie sollte dies auch eine nachhaltige Lösung sein.
 
 https://heizung.de/heizung/wissen/durchlauferhitzer-oder-boiler-was-lohnt-sich/
 
@@ -56,7 +56,7 @@ https://heizung.de/heizung/wissen/durchlauferhitzer-oder-boiler-was-lohnt-sich/
 - Durchlauferhitzer
 	- Gibt es Förderungen auf Durchlauferhitzer?
 	- Wie groß müssen die Durchlauferhitzer für Badezimmer, Küche, usw.. dimensioniert sein?
-	- Kann ich per [[_Hausbau/Finanzierungen/Smart Home|Smart Home]] die Durchlauferhitzer steuern und deren aktuellen Energieverbrauch auslesen (intelligentes Lastmanagement)?
+	- Kann ich per [[_Hausbau/Finanzierungen/Smart Home|Smart Home]] die Durchlauferhitzer steuern und deren aktuellen Energieverbrauch auslesen (intelligentes [[_Hausbau/Loxone/Energiemanagement|Energiemanagement]])?
 - Boiler
 	- Welche Boiler darf ich einsetzen?
 	- Wärmepumpenboiler scheinen vor allem in der Schweiz Verwendung zu finden?
