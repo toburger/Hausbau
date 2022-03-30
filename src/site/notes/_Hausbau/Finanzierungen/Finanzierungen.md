@@ -4,9 +4,6 @@
 
 # Möglichkeiten
 
-## Staatliche Förderungen
-#todo
-
 ## Landesförderungen
 - [[_Hausbau/Finanzierungen/Neubau der Erstwohnung|Neubau der Erstwohnung]]
 - [[_Hausbau/Finanzierungen/Bauspardarlehen|Bauspardarlehen]]
@@ -17,6 +14,10 @@
 - [[_Hausbau/Finanzierungen/Wasser - Erdwärme (geschlossene Systeme)|Wasser - Erdwärme (geschlossene Systeme)]]
 - [[_Hausbau/Finanzierungen/Beiträge für Windkraft-Inselanlagen|Beiträge für Windkraft-Inselanlagen]]
 
-## EU Förderungen
+## Staatliche Förderungen
 #todo
+
+## EU Förderungen
 - [[_Hausbau/Finanzierungen/European Green Deal|European Green Deal]]
+
+#todo
