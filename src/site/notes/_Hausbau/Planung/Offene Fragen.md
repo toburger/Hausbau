@@ -9,6 +9,7 @@
 - [[_Hausbau/Planung/Offene Fragen#Heinold Gasser|#Heinold Gasser]]
 - [[_Hausbau/Planung/Offene Fragen#Greti Innerhofer|#Greti Innerhofer]]
 - [[_Hausbau/Planung/Offene Fragen#Christoph Vinatzer|#Christoph Vinatzer]]
+- [[_Hausbau/Planung/Offene Fragen#Pedevilla Architects|#Pedevilla Architects]]
 
 ### Marx/Ladurner
 [Webseite](https://www.marx-ladurner.com/)
@@ -21,6 +22,9 @@
 
 ### Christoph Vinatzer
 [Webseite](https://www.arch-vinatzer.com/)
+
+### Pedevilla Architects
+[Webseite](https://pedevilla.info/)
 
 ## Kubaturverschiebung möglich?
 #todo
