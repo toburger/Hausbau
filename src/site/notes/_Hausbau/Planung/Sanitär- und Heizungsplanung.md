@@ -5,7 +5,7 @@
 # Sanitär- und Heizungsplanung
 Ich möchte die Heizung ohne Abhängigkeit vom Sanitärtechniker, d.h. unabhängig von einem Warmwasserkreislauf, machen.
 
-### Offene Fragen:
+### Offene Fragen
 - Gibt es einen eigenen Tarif für "Heizstrom"?
   In Deutschland gibt es diesen Tarif speziell fürs Heizen. Dafür ist ein getrennter Zähler notwendig.
 
